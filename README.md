@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneEsk19
 - 👀 I’m interested in Bioinformatics and Data Science
-- 🌱 I've just finished an MSc in Bioinformatics
+- 🌱 I've just finished an MSc in Bioinformatics and my favourite programming language is R. My next challenge is to improve my python programming.
 - 💞️ Happy to collaborate if you think I can be useful!
 
 <!---
