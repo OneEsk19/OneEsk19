@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneEsk19
 - 👀 I’m interested in Bioinformatics and Data Science
-- 🌱 I’m currently learning MSc Bioinformatics
+- 🌱 I've just finished an MSc in Bioinformatics
 - 💞️ Happy to collaborate if you think I can be useful!
 
 <!---
